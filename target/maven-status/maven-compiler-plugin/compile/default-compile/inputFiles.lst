@@ -1,0 +1,11 @@
+/home/jneris/Documentos/Projetos/api-expansao/src/main/java/com/expansao/java/repository/LojaRepository.java
+/home/jneris/Documentos/Projetos/api-expansao/src/main/java/com/expansao/java/controller/ProdutoController.java
+/home/jneris/Documentos/Projetos/api-expansao/src/main/java/com/expansao/java/service/ProdutoService.java
+/home/jneris/Documentos/Projetos/api-expansao/src/main/java/com/expansao/java/repository/ProdutoRepository.java
+/home/jneris/Documentos/Projetos/api-expansao/src/main/java/com/expansao/java/JavaApplication.java
+/home/jneris/Documentos/Projetos/api-expansao/src/main/java/com/expansao/java/model/Produto.java
+/home/jneris/Documentos/Projetos/api-expansao/src/main/java/com/expansao/java/controller/LojaController.java
+/home/jneris/Documentos/Projetos/api-expansao/src/main/java/com/expansao/java/model/Loja.java
+/home/jneris/Documentos/Projetos/api-expansao/src/main/java/com/expansao/java/dto/LojaDto.java
+/home/jneris/Documentos/Projetos/api-expansao/src/main/java/com/expansao/java/dto/ProdutoDto.java
+/home/jneris/Documentos/Projetos/api-expansao/src/main/java/com/expansao/java/service/LojaService.java

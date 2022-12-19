@@ -1,0 +1,11 @@
+com/expansao/java/service/LojaService.class
+com/expansao/java/dto/LojaDto.class
+com/expansao/java/repository/ProdutoRepository.class
+com/expansao/java/service/ProdutoService.class
+com/expansao/java/controller/ProdutoController.class
+com/expansao/java/JavaApplication.class
+com/expansao/java/repository/LojaRepository.class
+com/expansao/java/dto/ProdutoDto.class
+com/expansao/java/model/Produto.class
+com/expansao/java/model/Loja.class
+com/expansao/java/controller/LojaController.class
